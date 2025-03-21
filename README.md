@@ -72,7 +72,7 @@ Found missing projects? Submit additions via:
 
 ## Why CogList AI? 🚀
 
-CogList AI is a top AI Agents and Tools Directory & List for Indie Hackers in Project Building
+As the best ai tools directory for project building, CogList AI is a top AI Agents and Tools Directory & List for Indie Hackers in Project Building
 It assists Indie Hackers & Startup Founders in discovering top AI Agents, Tools & Resources for project building. Unlock the full potential of AI in building, with its directory and list of AI Agent examples and artificial intelligent tools.
 
 **Key Advantages**:  
